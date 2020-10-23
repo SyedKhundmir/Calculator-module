@@ -1,4 +1,4 @@
-from Calculator.operations import operation
+from ArithmaticPackage import operations
 
 l = []
 def demo(data):
